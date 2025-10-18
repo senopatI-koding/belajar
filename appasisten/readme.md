@@ -38,10 +38,3 @@ Berikut adalah susunan **fitur MVP (Minimum Viable Product)** untuk aplikasi **A
 - Backend sederhana dengan Firebase atau Supabase
 
 ---
-
-Kalau Teguh ingin lanjut, aku bisa bantu:
-- Buatkan **alur user flow**
-- Rancang **UI mockup tiap fitur MVP**
-- Susun **roadmap pengembangan versi beta dan versi final**
-
-Mau lanjut ke bagian mana dulu?
