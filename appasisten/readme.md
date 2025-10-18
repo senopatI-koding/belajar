@@ -25,6 +25,8 @@ Berikut adalah susunan **fitur MVP (Minimum Viable Product)** untuk aplikasi **A
 - Belum perlu scraping real-time, cukup data manual untuk validasi fitur.
 
 ---
+## UI
+![UI Minim] ()
 
 ## 🎯 **Tujuan MVP**
 - Validasi kebutuhan pengguna: apakah ibu rumah tangga merasa terbantu?
