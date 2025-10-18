@@ -26,7 +26,7 @@ Berikut adalah susunan **fitur MVP (Minimum Viable Product)** untuk aplikasi **A
 
 ---
 ## UI
-![UI Minim] ()
+![UI Minim](https://github.com/senopatI-koding/belajar/blob/main/appasisten/jpeg%20(5).jpg)
 
 ## 🎯 **Tujuan MVP**
 - Validasi kebutuhan pengguna: apakah ibu rumah tangga merasa terbantu?
